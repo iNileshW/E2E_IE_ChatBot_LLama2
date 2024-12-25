@@ -12,4 +12,7 @@ Chatbot for Industrial Engineering Handbook
    4. langchain - 0.0.225 - For langchain
    5. flask - For frontend
 4. To install: ```pip install -r requirements.txt```
-5. 
+5. Run: ```!pip install --upgrade langchain```
+    ```!pip install -U langchain-community```
+    ```!pip install pinecone```
+6. Create Pinecone Cluster: 

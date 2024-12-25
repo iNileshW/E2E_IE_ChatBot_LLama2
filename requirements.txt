@@ -1,5 +1,6 @@
-ctransformers==0.2.27
-sentence-transformers==3.3.1
+ctransformers
+sentence-transformers
 pinecone-client
-langchain==0.3.13
+langchain
+langchain-community
 flask

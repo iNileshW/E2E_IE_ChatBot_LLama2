@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+ie_chatbot_env
 
 # Spyder project settings
 .spyderproject
@@ -169,3 +170,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+model/llama-2-7b-chat.ggmlv3.q4_0.bin
